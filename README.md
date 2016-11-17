@@ -14,7 +14,7 @@ npm install --save-dev babel-preset-react@6.3.13<br/>
 
 
 Run: <br/>
-webpack ./public/app.js ./public/bundle.js <br />
+webpack <br />
 node index.js <br />
 
 Go to: http://localhost:3000/ <br />
