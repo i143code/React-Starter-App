@@ -42,21 +42,9 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports, __webpack_require__) {
-
-	var gretter = __webpack_require__(1)
-	gretter();
-
-
-/***/ },
-/* 1 */
 /***/ function(module, exports) {
 
-	function greeter(){
-	  document.write("Hello Ashish Ranjan")
-	}
-	module.exports = greeter;
-
+	eval("\"use strict\";//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMC5qcyIsInNvdXJjZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZVJvb3QiOiIifQ==");
 
 /***/ }
 /******/ ]);
