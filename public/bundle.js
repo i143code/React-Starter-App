@@ -53,7 +53,7 @@
 /***/ function(module, exports) {
 
 	function greeter(){
-	  document.write("Hello froma pp.js")
+	  document.write("Hello Ashish Ranjan")
 	}
 	module.exports = greeter;
 
